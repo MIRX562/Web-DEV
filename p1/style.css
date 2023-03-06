@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(203, 203, 203);
+  align-items: center;
+}
+h1 {
+  text-align: center;
+}
+form {
+  align-items: center;
+  max-width: 400px;
+  display: grid;
+  margin: auto;
+}
+.btn {
+  margin: auto;
+  max-width: 80px;
+  display: grid;
+  margin-top: 6px;
+}
